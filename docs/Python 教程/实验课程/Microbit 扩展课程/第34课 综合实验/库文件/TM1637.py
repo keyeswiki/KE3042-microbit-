@@ -1,7 +1,7 @@
 """
 MicroPython TM1637 quad 7-segment LED display driver for micro:bit
 refer to: https://github.com/mcauser/micropython-tm1637
-keyestudio
+keyes 
 dengfei
 2022-06-22
 """

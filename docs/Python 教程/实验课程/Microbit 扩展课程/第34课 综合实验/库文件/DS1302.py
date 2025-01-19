@@ -2,7 +2,7 @@
 DS1302 driver code
 2022-06-22
 dengfei
-keyestudio
+keyes 
 API:https://github.com/omarbenhamid/micropython-ds1302-rtc
 '''
 
